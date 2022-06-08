@@ -1,0 +1,16 @@
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\bin\Debug\net5.0\GetJSONFile.exe
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\bin\Debug\net5.0\GetJSONFile.deps.json
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\bin\Debug\net5.0\GetJSONFile.runtimeconfig.json
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\bin\Debug\net5.0\GetJSONFile.runtimeconfig.dev.json
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\bin\Debug\net5.0\GetJSONFile.dll
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\bin\Debug\net5.0\ref\GetJSONFile.dll
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\bin\Debug\net5.0\GetJSONFile.pdb
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.csproj.AssemblyReference.cache
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.AssemblyInfoInputs.cache
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.AssemblyInfo.cs
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.csproj.CoreCompileInputs.cache
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.dll
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\ref\GetJSONFile.dll
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.pdb
+C:\Users\kryst\source\repos\GetJSONFile\GetJSONFile\obj\Debug\net5.0\GetJSONFile.genruntimeconfig.cache
