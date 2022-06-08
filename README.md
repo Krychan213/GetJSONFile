@@ -7,3 +7,7 @@ Jest to program do pobierania plików JSON z adresów URL i zapisywania ich jako
 # Zawartość
 
 Projekt dzieli się na dwie częśći: Część właściwą i testy
+
+# Zmiany
+
+1.0.0 - Pierwszy commit
